@@ -17,7 +17,7 @@
 -   Trend Analysis of Air Quality in Los Angeles
 -  Corpus-based Study on Differences in Lexical Styles of Genuine and Spam SMS Messages
 ## TECHNICAL SKILLS
-- | Programming Languages |  Python, R, Java, C, C++, PHP
+- Programming Languages: Python, R, Java, C, C++, PHP
 - Data Analytics Tools: Tableau, Airflow, OpenRefine, Spark
 - Database: MySQL, MongoDB, Google BigTable, Snowflake
 - Cloud Technologies: AWS (EC2 Instance, S3 Bucket)
