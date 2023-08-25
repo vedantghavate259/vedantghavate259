@@ -6,16 +6,16 @@
 | Master of Science | Big Data Analytics | San Diego State University | 3.80/4 | Aug 2022 - May 2024 |
 | Bachelor of Engineering | Information Technology | Savitribai Phule Pune University | 7.17/10 | Aug 2016 - May 2020 |
 ## PROJECTS
--  How the War in Ukraine is Affecting the Predictability of the Energy Stock MarketHow the War in Ukraine is Affecting the Predictability of the Energy Stock 
--  Analyzing the Impact of the Presence of Mental Wellbeing Facilities on Crime Rates 
--  Credit Card Customers and Churn Rate Oct 
--  Product Database Management and Report Generation 
--  Receipt Analysis and Classification using Machine Learning 
--  Improving Fuel Economy by IoT and Data Analytics
--  Hospital Management System
--  Viprabharat, Web Development and PHP Programming with Database Management
--   Trend Analysis of Air Quality in Los Angeles
--  Corpus-based Study on Differences in Lexical Styles of Genuine and Spam SMS Messages
+-  [How the War in Ukraine is Affecting the Predictability of the Energy Stock MarketHow the War in Ukraine is Affecting the Predictability of the Energy Stock]()
+-  [Analyzing the Impact of the Presence of Mental Wellbeing Facilities on Crime Rates]()
+-  [Credit Card Customers and Churn Rate](https://github.com/vedantghavate259/Portfolio/tree/master/Credit%20Card%20Churn)
+-  [Product Database Management and Report Generation](https://github.com/vedantghavate259/PawarDairyFarm)
+-  [Receipt Analysis and Classification using Machine Learning](https://github.com/vedantghavate259/Portfolio/tree/master/Receipt%20Identification%20and%20Classification)
+-  [Improving Fuel Economy by IoT and Data Analytics]()
+-  [Hospital Management System]()
+-  [Viprabharat, Web Development and PHP Programming with Database Management](https://github.com/vedantghavate259/Portfolio/tree/master/Image%20Compression%20and%20Thumbnail%20Creation))
+-  [Trend Analysis of Air Quality in Los Angeles](https://github.com/vedantghavate259/Portfolio/tree/master/AQI%20Long%20Beach)
+-  [Corpus-based Study on Differences in Lexical Styles of Genuine and Spam SMS Messages](https://github.com/vedantghavate259/Portfolio/tree/master/Spam%20vs%20Geniune%20SMS))
 ## TECHNICAL SKILLS
 - Programming Languages: Python, R, Java, C, C++, PHP
 - Data Analytics Tools: Tableau, Airflow, OpenRefine, Spark
