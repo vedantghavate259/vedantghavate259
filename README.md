@@ -1,11 +1,12 @@
 # Vedant Ghavate
 +1 (747) 305 0428 | vedantghavate259@gmail.com | https://www.linkedin.com/in/vedantghavate | https://github.com/vedantghavate259
 ## PROJECTS
+-  [Disparity in Affordable Healthcare Insurance Plans across USA](https://mjoshi2669.wixsite.com/mudkip/s-projects-side-by-side)
 -  [Multivariate Time Series Forecasting of Household Power Consumption Data](https://github.com/vedantghavate259/Portfolio/tree/master/TFT)
 -  [Effects of Smoking and Drinking on Human Health: A Comprehensive Data Analysis](https://github.com/vedantghavate259/Portfolio/tree/master/Smoker%20Drinker%20Classification)
 -  [Artificial Intelligence in Agriculture](https://www.youtube.com/watch?v=ZSbrPmXX-sc)
 -  How the War in Ukraine is Affecting the Predictability of the Energy Stock Market
--  Analyzing the Impact of the Presence of Mental Wellbeing Facilities on Crime Rates
+-  [Analyzing the Impact of the Presence of Mental Wellbeing Facilities on Crime Rates](https://sites.google.com/sdsu.edu/analyzing-crime-data/home)
 -  [Credit Card Customers and Churn Rate](https://github.com/vedantghavate259/Portfolio/tree/master/Credit%20Card%20Churn)
 -  [Product Database Management and Report Generation](https://github.com/vedantghavate259/PawarDairyFarm)
 -  [Receipt Analysis and Classification using Machine Learning](https://github.com/vedantghavate259/Portfolio/tree/master/Receipt%20Identification%20and%20Classification)
@@ -32,8 +33,3 @@
 -  Volunteer, National Service Scheme - Responsible for educating and managing Palkhi Devotees Jul 2019 - Mar 2020
 -  Delegate for Cambodia at Model United Nations Task Force for Narcotics organized by Pune Model United Nations Jul 2015
 
-
-<!---
-vedantghavate259/vedantghavate259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
