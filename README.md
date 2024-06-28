@@ -4,7 +4,7 @@
 -  [Multivariate Time Series Forecasting of Household Power Consumption Data](https://github.com/vedantghavate259/Portfolio/tree/master/TFT)
 -  [Effects of Smoking and Drinking on Human Health: A Comprehensive Data Analysis](https://github.com/vedantghavate259/Portfolio/tree/master/Smoker%20Drinker%20Classification)
 -  [Artificial Intelligence in Agriculture](https://www.youtube.com/watch?v=ZSbrPmXX-sc)
--  How the War in Ukraine is Affecting the Predictability of the Energy Stock MarketHow the War in Ukraine is Affecting the Predictability of the Energy Stock
+-  How the War in Ukraine is Affecting the Predictability of the Energy Stock Market
 -  Analyzing the Impact of the Presence of Mental Wellbeing Facilities on Crime Rates
 -  [Credit Card Customers and Churn Rate](https://github.com/vedantghavate259/Portfolio/tree/master/Credit%20Card%20Churn)
 -  [Product Database Management and Report Generation](https://github.com/vedantghavate259/PawarDairyFarm)
